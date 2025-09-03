@@ -10,9 +10,9 @@ This project demonstrates the setup and deployment of a Python Flask web applica
 
 
 ## Student Info
-- **Name:** Sai Tarun Vedagiri  
-- **Student ID:** 801421332  
-- **Email:** svedagi1@charlotte.edu  
+- **Name:** Manish Vamsi Krishna Yendeti
+- **Student ID:** 801429980  
+- **Email:** myendeti@charlotte.edu  
 
 ---
 
